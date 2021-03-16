@@ -1,0 +1,9 @@
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.BL\bin\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.BL.deps.json
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.BL\bin\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.BL.dll
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.BL\bin\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.BL.pdb
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.BL\obj\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.BL.csprojAssemblyReference.cache
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.BL\obj\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.BL.AssemblyInfoInputs.cache
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.BL\obj\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.BL.AssemblyInfo.cs
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.BL\obj\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.BL.csproj.CoreCompileInputs.cache
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.BL\obj\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.BL.dll
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.BL\obj\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.BL.pdb

@@ -1,0 +1,16 @@
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.Consola\bin\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.Consola.exe
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.Consola\bin\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.Consola.deps.json
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.Consola\bin\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.Consola.runtimeconfig.json
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.Consola\bin\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.Consola.runtimeconfig.dev.json
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.Consola\bin\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.Consola.dll
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.Consola\bin\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.Consola.pdb
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.Consola\bin\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.BL.dll
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.Consola\bin\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.BL.pdb
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.Consola\obj\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.Consola.csprojAssemblyReference.cache
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.Consola\obj\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.Consola.AssemblyInfoInputs.cache
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.Consola\obj\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.Consola.AssemblyInfo.cs
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.Consola\obj\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.Consola.csproj.CoreCompileInputs.cache
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.Consola\obj\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.Consola.csproj.CopyComplete
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.Consola\obj\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.Consola.dll
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.Consola\obj\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.Consola.pdb
+d:\Documents\Desktop\Ejercicios2Punto02Cono\Ejercicios2Punto02Cono.Consola\obj\Debug\netcoreapp3.1\Ejercicios2Punto02Cono.Consola.genruntimeconfig.cache

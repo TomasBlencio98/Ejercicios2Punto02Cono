@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejercicios2Punto02Cono.Consola/1.0.0": {
+        "dependencies": {
+          "Ejercicios2Punto02Cono.BL": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicios2Punto02Cono.Consola.dll": {}
+        }
+      },
+      "Ejercicios2Punto02Cono.BL/1.0.0": {
+        "runtime": {
+          "Ejercicios2Punto02Cono.BL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicios2Punto02Cono.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ejercicios2Punto02Cono.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
